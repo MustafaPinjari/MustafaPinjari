@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 About Me:
-Hello! I'm Mustafa Pinjari, a dynamic Frontend Developer with a passion for crafting exceptional user experiences. With over 4 years of expertise in the tech industry, I bring a wealth of knowledge and skills to the table.
+Hello! I'm Mustafa Pinjari, a dynamic Frontend Developer with a passion for crafting exceptional user experiences. With over 4 years of expertise in the tech industry, I bring a wealth of knowledge and skills to the table
 <br><br>
 💻 Technical Expertise:
 I'm proficient in HTML, CSS, and JavaScript, specializing in creating visually appealing and highly functional frontend solutions. But my toolkit doesn't stop there—I also have experience with Python, Pandas, and a strong foundation in Data Analysis and Data Science. This diverse skill set allows me to tackle a wide range of challenges and contribute effectively to cross-functional teams.
