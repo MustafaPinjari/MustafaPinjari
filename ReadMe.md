@@ -24,9 +24,10 @@ Whether you're looking to enhance your frontend development, explore data-driven
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_ur_musuuu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-pinjari-287625256/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23F7DF1E.svg?logo=leetcode&logoColor=black)](https://leetcode.com/your-username/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23F7DF1E.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Mustafa_Pinjari/) 
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23F48024.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-user-id/your-profile)
-[![CodePen](https://img.shields.io/badge/CodePen-%23F0DB4F.svg?logo=codepen&logoColor=black)](https://codepen.io/your-username/)
+[![CodePen](https://img.shields.io/badge/CodePen-%23F0DB4F.svg?logo=codepen&logoColor=black)]([https://codepen.io/your-username/](https://codepen.io/-MUSTAFA-))
+[![Hugging Facse](https://img.shields.io/badge/hugggingface-%23F0DB4F.svg?logo=codepen&logoColor=black)]([https://codepen.io/your-username/](https://huggingface.co/MustafaPinjari))
 
 
 
