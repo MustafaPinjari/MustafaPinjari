@@ -25,6 +25,7 @@ Whether you're looking to enhance your frontend development, explore data-driven
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_ur_musuuu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-pinjari-287625256/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F7DF1E.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Mustafa_Pinjari/)
+<br>
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23F48024.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26745237/mustafapinjari)
 [![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?logo=codepen&logoColor=white)](https://codepen.io/-MUSTAFA-)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFAE00.svg?logo=huggingface&logoColor=black)](https://huggingface.co/MustafaPinjari)
