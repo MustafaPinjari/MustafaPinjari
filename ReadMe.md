@@ -21,7 +21,7 @@ Now, I'm eager to leverage my diversified skill set in a forward-thinking compan
 Whether you're looking to enhance your frontend development, explore data-driven solutions, or simply discuss industry insights, let's connect! I'm passionate about collaborating with like-minded professionals and contributing to impactful projects. Reach out, and let's explore how I can add value to your team
 <br><br>
 
-## 🌐 Socials:## 🌐 Socials:
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_ur_musuuu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-pinjari-287625256/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F7DF1E.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Mustafa_Pinjari/)
