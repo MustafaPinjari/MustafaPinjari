@@ -9,6 +9,7 @@ Hey! I’m Mustafa Pinjari, a Frontend Developer with 4+ years of experience, pa
 <br>
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23F48024.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26745237/mustafapinjari)
 [![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?logo=codepen&logoColor=white)](https://codepen.io/-MUSTAFA-)
+<br>
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFAE00.svg?logo=huggingface&logoColor=black)](https://huggingface.co/MustafaPinjari)
 [![Devfolio](https://img.shields.io/badge/Devfolio-%23000000.svg?logo=devfolio&logoColor=white)](https://devfolio.co/@Mustafa_Pinjari)
 
