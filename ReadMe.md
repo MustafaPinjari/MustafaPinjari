@@ -1,5 +1,5 @@
 # 💫 About Me :~
-Hey! I’m Mustafa Pinjari, a Frontend Developer with 4+ years of experience, passionate about creating responsive, intuitive, and scalable web applications. My mission is to craft seamless user experiences while keeping performance and innovation at the core.
+Hey! I’m Mustafa Pinjari, a Frontend Developer with 4+ years of experience, passionate about creating responsive, intuitive, and scalable web applications. My mission is to craft seamless user experiences while keeping performance and innovation at the core
 <br><br>
 
 ## 🌐 Socials:
