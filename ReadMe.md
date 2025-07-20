@@ -99,10 +99,7 @@
 ---
 
 ## 📊 Pie Chart of Time Repartition
-
-![WakaTime Pie]
-<figure><embed src="https://wakatime.com/share/@018d1bb6-c4dc-4169-8c9e-ff71f686f46b/bc8d4e23-ddd4-45ad-88c2-998a2fc169af.svg"></embed></figure>
-> Replace the link with your actual WakaTime shareable pie chart link.
+![WakaTime Pie](https://wakatime.com/share/@018d1bb6-c4dc-4169-8c9e-ff71f686f46b/bc8d4e23-ddd4-45ad-88c2-998a2fc169af.svg)
 
 ---
 
