@@ -93,4 +93,5 @@
 ## 🐍 Snake Eating My Contribution Graph
 
 <!-- Optional alternate snake animation -->
-![Snake animation](https://github.com/MustafaPinjari/MustafaPinjari/blob/output/github-contribution-grid-snake.gif) 
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
