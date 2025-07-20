@@ -91,7 +91,6 @@
 ![GitHub metrics](https://github-readme-stats.vercel.app/api/wakatime?username=MustafaPinjari&layout=compact&theme=radical)
 
 ## 🐍 Snake Eating My Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <!-- Optional alternate snake animation -->
-<!-- ![Snake animation](https://github.com/MustafaPinjari/MustafaPinjari/blob/output/github-contribution-grid-snake.gif) -->
+![Snake animation](https://github.com/MustafaPinjari/MustafaPinjari/blob/output/github-contribution-grid-snake.gif) 
