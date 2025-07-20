@@ -107,5 +107,10 @@
 ## 📜 Dynamic Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
-## 📅 3D Contribution Calendar
-<img src="https://raw.githubusercontent.com/chinmay29hub/chinmay29hub/main/assets/3dcontrib/profile-night-rainbow.svg" />
+## 3D Contribution Calendar 📅
+<br>
+<p align='center'>
+<img src="./profile-3d-contrib/profile-night-view.svg">
+</p>
+<hr>
+<br>
