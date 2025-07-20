@@ -103,17 +103,9 @@
 
 ---
 
+
 ## 📜 Dynamic Quote
-
-<p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=Open+Sans" alt="Quote" />
-</p>
-
----
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 ## 📅 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://github.com/chinmay29hub/chinmay29hub/raw/main/assets/3dcontrib/profile-night-rainbow.svg" />
-</p>
-
+<img src="https://raw.githubusercontent.com/chinmay29hub/chinmay29hub/main/assets/3dcontrib/profile-night-rainbow.svg" />
