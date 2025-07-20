@@ -1,37 +1,98 @@
-# 💫 About Me :~
-Hey! I’m Mustafa Pinjari, a Frontend Developer with 4+ years of experience, passionate about creating responsive, intuitive, and scalable web applications. My mission is to craft seamless user experiences while keeping performance and innovation at the core.
-<br><br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MustafaPinjari&label=Profile%20views%20overall&color=FF0000&style=plastic&base=9728" alt="slaydesequeira" /> </p>
+# 💫 About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_ur_musuuu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-pinjari-287625256/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23F7DF1E.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/Mustafa_Pinjari/)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=Hey+there!+I'm+Mustafa+Pinjari;A+passionate+Frontend+Developer;Building+seamless+web+experiences;4%2B+years+of+coding+adventures;Open+to+collaborate+and+create" alt="Typing SVG" />
+</div>
+
 <br>
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23F48024.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26745237/mustafapinjari)
-[![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?logo=codepen&logoColor=white)](https://codepen.io/-MUSTAFA-)
-<br>
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFAE00.svg?logo=huggingface&logoColor=black)](https://huggingface.co/MustafaPinjari)
-[![Devfolio](https://img.shields.io/badge/Devfolio-%23000000.svg?logo=devfolio&logoColor=white)](https://devfolio.co/@Mustafa_Pinjari)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MustafaPinjari&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="MustafaPinjari" />
+  </a>
+</div>
 
+## 🌟 Profile Views
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/MustafaPinjari/count.svg" alt="MustafaPinjari" />
+  <img src="https://komarev.com/ghpvc/?username=MustafaPinjari&label=Profile%20views&color=0e75b6&style=flat" alt="MustafaPinjari" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) </br>![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) </br>![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</br> ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)</br> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MustafaPinjari&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MustafaPinjari&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaPinjari&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+## 🚀 Tech Stack & Tools
+
+### 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+### 🛠️ Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🎨 Design & Styling
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MustafaPinjari&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="MustafaPinjari's GitHub stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaPinjari&theme=radical" alt="MustafaPinjari's streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustafaPinjari&theme=radical" alt="MustafaPinjari's GitHub stats" />
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MustafaPinjari&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MustafaPinjari&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="MustafaPinjari's trophies" />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🎯 Top Languages
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaPinjari&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MustafaPinjari&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🌐 Connect With Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/mustafa-pinjari-287625256/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Mustafa_Pinjari/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://stackoverflow.com/users/26745237/mustafapinjari">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://devfolio.co/@Mustafa_Pinjari">
+    <img src="https://img.shields.io/badge/Devfolio-000000?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio" />
+  </a>
+  <a href="https://huggingface.co/MustafaPinjari">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </a>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=MustafaPinjari&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🔥 Contribution Graph
+[![Mustafa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MustafaPinjari&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 🎵 Spotify Playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 
+## 📈 GitHub Metrics
+![Metrics](https://metrics.lecoq.io/MustafaPinjari?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata)
+
+## 🐍 Snake Eating My Contribution Graph
+![snake gif](https://github.com/MustafaPinjari/MustafaPinjari/blob/output/github-contribution-grid-snake.svg)
