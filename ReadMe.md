@@ -94,3 +94,28 @@
 
 <!-- Optional alternate snake animation -->
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+
+---
+
+## 📊 Pie Chart of Time Repartition
+
+![WakaTime Pie](https://wakatime.com/share/@MustafaPinjari/fake-chart-id.png)
+> Replace the link with your actual WakaTime shareable pie chart link.
+
+---
+
+## 📜 Dynamic Quote
+
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=Open+Sans" alt="Quote" />
+</p>
+
+---
+
+## 📅 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://github.com/chinmay29hub/chinmay29hub/raw/main/assets/3dcontrib/profile-night-rainbow.svg" />
+</p>
+
