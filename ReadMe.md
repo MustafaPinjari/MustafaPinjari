@@ -1,6 +1,7 @@
 # 💫 About Me :~
 Hey! I’m Mustafa Pinjari, a Frontend Developer with 4+ years of experience, passionate about creating responsive, intuitive, and scalable web applications. My mission is to craft seamless user experiences while keeping performance and innovation at the core.
 <br><br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MustafaPinjari&label=Profile%20views%20overall&color=FF0000&style=plastic&base=9728" alt="slaydesequeira" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_ur_musuuu)
