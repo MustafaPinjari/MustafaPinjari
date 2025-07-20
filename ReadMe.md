@@ -13,8 +13,7 @@
 
 ## 🌟 Profile Views
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/MustafaPinjari/count.svg" alt="MustafaPinjari" />
-  <img src="https://komarev.com/ghpvc/?username=MustafaPinjari&label=Profile%20views&color=0e75b6&style=flat" alt="MustafaPinjari" />
+  <img src="https://komarev.com/ghpvc/?username=MustafaPinjari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ## 🚀 Tech Stack & Tools
@@ -53,7 +52,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustafaPinjari&theme=radical" alt="MustafaPinjari's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustafaPinjari&theme=radical" alt="MustafaPinjari's GitHub summary" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -84,6 +83,7 @@
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   </a>
 </div>
+
 ## 🔥 Contribution Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MustafaPinjari&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -93,5 +93,5 @@
 ## 🐍 Snake Eating My Contribution Graph
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-<!-- Or alternatively, use this snake animation -->
-![Snake animation](https://github.com/MustafaPinjari/MustafaPinjari/blob/output/github-contribution-grid-snake.gif)
+<!-- Optional alternate snake animation -->
+<!-- ![Snake animation](https://github.com/MustafaPinjari/MustafaPinjari/blob/output/github-contribution-grid-snake.gif) -->
