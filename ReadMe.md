@@ -84,15 +84,14 @@
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   </a>
 </div>
-
 ## 🔥 Contribution Graph
-[![Mustafa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MustafaPinjari&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🎵 Spotify Playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MustafaPinjari&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📈 GitHub Metrics
-![Metrics](https://metrics.lecoq.io/MustafaPinjari?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata)
+![GitHub metrics](https://github-readme-stats.vercel.app/api/wakatime?username=MustafaPinjari&layout=compact&theme=radical)
 
 ## 🐍 Snake Eating My Contribution Graph
-![snake gif](https://github.com/MustafaPinjari/MustafaPinjari/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+<!-- Or alternatively, use this snake animation -->
+![Snake animation](https://github.com/MustafaPinjari/MustafaPinjari/blob/output/github-contribution-grid-snake.gif)
