@@ -122,6 +122,6 @@
 
 ## ⏱️ WakaTime Stats
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_real_username&layout=compact&theme=radical)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=MustafaPinjari&layout=compact&theme=radical)
 
 
