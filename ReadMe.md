@@ -6,10 +6,13 @@
 
 <br>
 <div align="center">
+  <img src="https://github.com/MustafaPinjari.png" alt="Mustafa Pinjari" width="150" style="border-radius: 50%;" />
+  <br />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MustafaPinjari&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="MustafaPinjari" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MustafaPinjari&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </div>
+
 
 ## 🌟 Profile Views
 <p align="center"> 
