@@ -116,7 +116,7 @@
       
 ### 🧭 Time Distribution
 
-<img src="https://wakatime.com/share/@018d1bb6-c4dc-4169-8c9e-ff71f686f46b/bc8d4e23-ddd4-45ad-88c2-998a2fc169af.svg" width="350" height="300" />
+<img src="https://wakatime.com/share/@018d1bb6-c4dc-4169-8c9e-ff71f686f46b/bc8d4e23-ddd4-45ad-88c2-998a2fc169af.svg" width="7000" height="650" />
 
 </td>
   </tr>
