@@ -71,19 +71,19 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies & 💡 Top Languages
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MustafaPinjari&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" />
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top" width="30%">
+      <img src="https://github-profile-trophy.vercel.app/?username=MustafaPinjari&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=2&column=3" />
+    </td>
+    <td align="center" valign="top" width="70%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaPinjari&layout=compact&theme=radical&langs_count=8" height="240" />
+    </td>
+  </tr>
+</table>
 
----
-
-## 💡 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaPinjari&layout=compact&theme=radical&langs_count=8" height="200" />
-</div>
 
 ---
 
