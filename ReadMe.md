@@ -6,11 +6,9 @@
 
 <br>
 <div align="center">
-  <img src="https://github.com/MustafaPinjari.png" alt="Mustafa Pinjari" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/MustafaPinjari.png" alt="Mustafa Pinjari" width="150" style="border-radius: 50px;" />
   <br />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MustafaPinjari&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="GitHub Trophies" />
-  </a>
+  
 </div>
 
 
@@ -63,10 +61,10 @@
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MustafaPinjari&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="MustafaPinjari's trophies" />
-</div>
-
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MustafaPinjari&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+  
 ## 🎯 Top Languages
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaPinjari&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
