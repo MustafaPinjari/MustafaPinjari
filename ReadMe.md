@@ -1,12 +1,12 @@
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
 
 # 💫 About Me
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=Hey+there!+I'm+Mustafa+Pinjari;A+passionate+Frontend+Developer;Building+seamless+web+experiences;4%2B+years+of+coding+adventures;Open+to+collaborate+and+create" alt="Typing SVG" />
   <br><br>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+</div>
 ---
 
 ## 🧰 Tech Stack & Tools
