@@ -12,6 +12,7 @@
 ## 🧰 Tech Stack & Tools
 
 <table>
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="200">
   <tr>
     <td><strong>Languages</strong></td>
     <td>
