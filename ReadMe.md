@@ -101,7 +101,6 @@
 ---
 
 ## 📊 Coding Activity Breakdown (WakaTime)
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
@@ -110,6 +109,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MustafaPinjari&layout=compact&theme=radical" width="400" height="300" />
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
 </td>
     <td align="center" valign="top" width="50%">
       
